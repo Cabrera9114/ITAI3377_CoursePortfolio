@@ -5,9 +5,9 @@
 **Fall 2025**  
 Houston Community College – Bachelor of Applied Technology in Artificial Intelligence & Robotics
 
-This repository showcases my learning journey in **ITAI 3377**, focusing on:
-- Industrial Internet of Things (IIoT) concepts
-- AI deployment at the edge
+This repository showcases my learning journey in **ITAI 3377**, covering:
+- Industrial Internet of Things (IIoT) concepts and protocols
+- AI deployment on edge devices
 - Time series forecasting
 - Cybersecurity for AI-integrated IIoT systems
 - Autonomous agent design
@@ -27,9 +27,13 @@ This repository showcases my learning journey in **ITAI 3377**, focusing on:
 
 ## 📌 About This Portfolio
 This portfolio contains lab reports, projects, and presentations from the ITAI 3377 course.  
-It reflects my growth in understanding how AI can be integrated with IIoT systems to enhance efficiency, reliability, and scalability.
+It highlights key projects such as:
+- **Cybersecurity Plan for AI-Integrated IIoT Systems** – Designing security measures for smart factory environments
+- **IoT Forecasting Lab** – Using Nixtla AutoML to predict IoT sensor data
+- **Capstone Project** – Virtual Administrative Assistant AI Agent for Edge & IIoT systems
 
 ---
 
-## 🔗 Repository Link for Submission
-[Click here to view this repository](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
+## 🔗 Submission Repository Link
+[Click here to view this repository](https://github.com/Cabrera9114/ITAI3377_CoursePortfolio)
+
